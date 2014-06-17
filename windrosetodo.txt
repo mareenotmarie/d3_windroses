@@ -1,0 +1,5 @@
+fix calm circle
+fix text labels on radial axes
+add legend
+handle different units
+add units config to json
